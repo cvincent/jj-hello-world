@@ -4,7 +4,6 @@
 
 fn main() {
     print("Hello, world!");
-    print("Goobye, world!");
 }
 
 fn print(m: &str) {

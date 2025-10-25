@@ -2,8 +2,10 @@
 ///
 /// I forgot about Rust doc syntax.
 
+/// The `main` function is run at the start of the program
 fn main() {
     print("Hello, world!");
+    print("Goodbye, world!");
 }
 
 fn print(m: &str) {
